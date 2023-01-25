@@ -16,3 +16,8 @@ in Tashkent for a several months. There I have been working as a Python and Djan
 learning Python, Django, Django Rest Framework, Sql and etc.  
 """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
